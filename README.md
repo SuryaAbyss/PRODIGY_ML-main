@@ -57,7 +57,6 @@ python real_time_recognition.py
 Feel free to **fork this repo** and add more gestures or improve the model. Pull requests are welcome! 😊
 
 ## 🔗 Contact
-👨‍💻 **Muhammad ilyas**  
-📧 ilyaslayyah786@gmail.com 
-🔗 [GitHub Profile](https://github.com/ilyaslayyah123)  
+👨‍💻 **Surya Prakash**  
+📧 suryaprakash907ygmail.com   
 
